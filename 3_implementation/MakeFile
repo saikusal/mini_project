@@ -1,0 +1,25 @@
+SRC = unity/unity.c\
+src/Addition.c\
+src/Multiplication.c\
+src/Subtraction.c\
+src/Division.c\
+src/Modulus.c\
+src/Power.c\
+src/Factorial.c\
+test/test_calculator.c\
+
+
+INC = -Iunity\
+-Iinc\
+-Itest
+
+PROJECT_NAME = calculator.exe
+
+$(PROJECT_NAME): $(SRC)
+	gcc $(SRC) $(INC) -o $(PROJECT_NAME)
+
+run:$(PROJECT_NAME)
+	$(PROJECT_NAME)
+
+
+
