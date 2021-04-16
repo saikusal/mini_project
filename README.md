@@ -32,3 +32,7 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | issues in running test cases | specifying correct return values for functions
 |4. | Issues in workflows | fixed them by updating the path to all files correctly
 |5. |gcov generating *.gcda and *.gcno files in different directory than object file| not fixed yet| 
+
+
+Badges
+[![Contribution Check - Git Inspector](https://github.com/visweswar299/mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/visweswar299/mini_project/actions/workflows/gitinspector.yml)
