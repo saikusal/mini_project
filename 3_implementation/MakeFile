@@ -1,11 +1,5 @@
 SRC = unity/unity.c\
-src/Addition.c\
-src/Multiplication.c\
-src/Subtraction.c\
-src/Division.c\
-src/Modulus.c\
-src/Power.c\
-src/Factorial.c\
+src/main.c\
 test/test_calculator.c\
 
 
