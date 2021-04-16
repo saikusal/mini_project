@@ -1,5 +1,15 @@
 #include "calculator.h"
 
+
+
+
+/**
+ * @brief  function to find factorial of a number
+ * 
+a * @param a operand1
+ * @param b operand2
+ * @return int  it returns the output value
+ */
 int Factorial(int a)
 {
      int (*factorial)(int)=&Factorial;
