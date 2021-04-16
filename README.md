@@ -31,3 +31,4 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |2. | Unit Testing for the functions which return random values | By making the return value constant for one of the functions |
 |3. | issues in running test cases | specifying correct return values for functions
 |4. | Issues in workflows | fixed them by updating the path to all files correctly
+|5. |gcov generating *.gcda and *.gcno files in different directory than object file| not fixed yet| 
