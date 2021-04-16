@@ -20,13 +20,8 @@
 | **Test ID** |  **Description**                                                  | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|-------------------------------------------------------------------|------------|-------------|----------------|------------------|
 |LT_1|Addition of two numbers|a,b|a+b|a+b|requirement based|
-
 |LT_2|Subtraction of two numbers|a,b|a-b|a-b|requirement based|
-
 |LT_3|Multiplication of two numbers|a,b|a*b|a*b|requirement based|
-
 |LT_4|Division of two numbers|a,b|a/b|a/b|requirement based|
-
 |LT_5|Modulus of two numbers|a,b|a%b|a%b|requirement based|
-
 |LT_6|Square of a number|a|a*a|a*a|requirement based|
