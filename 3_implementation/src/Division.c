@@ -1,4 +1,13 @@
-#include "calculator.h"
+#include  "calculator.h"
+
+
+/**
+ * @brief  function to division of two numbers
+ * 
+ * @param a operand1
+ * @param b operand2
+ * @return int  it returns the output value
+ */
 
 int Division(int a ,int b)
 {
