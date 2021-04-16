@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: C/C++ CI - Build Status
 
 on:
   push:
@@ -13,7 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      
-    - name: make all
-      run:  make all -C 3_implementation/
-© 2021 GitHub, Inc.
+    - name: make
+      run: make -C 3_implementation/ all
