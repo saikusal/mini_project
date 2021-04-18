@@ -30,10 +30,11 @@ int Power(int a ,int b);
 int Factorial(int a);
 
 int Square(int a);
-int main()
+/*int main()
 {
     printf(".............................\n");
     printf("\t\t\t\t\t\tWELCOME\n");
     printf("\t\t\t\t\t\t\t\t\t\t.....................\n");
     return 0;
 }
+*/
