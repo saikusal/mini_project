@@ -34,7 +34,4 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |5. |gcov generating *.gcda and *.gcno files in different directory than object file| not fixed yet| 
 
 
-Badges
-[![Contribution Check - Git Inspector](https://github.com/visweswar299/mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/visweswar299/mini_project/actions/workflows/gitinspector.yml)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/visweswar299/mini_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/visweswar299/mini_project/actions/workflows/cppcheck.yml)
